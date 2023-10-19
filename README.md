@@ -1,1 +1,0 @@
-# haverim-template
