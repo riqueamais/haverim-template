@@ -9,23 +9,9 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
 - **Navegador Web**: Recomendamos o uso de navegadores modernos como Chrome, Firefox ou Safari para visualizar e testar o site.
 - **Editor de Código**: Um editor de código como Visual Studio Code, Sublime Text ou Atom para editar os arquivos HTML, CSS e JavaScript.
 
-## Como Usar
+## Link para acesso
 
-1. **Clone o repositório**:
-
-   ```bash
-   git clone https://github.com/riqueamais/haverim-template.git
-   ```
-
-2. **Navegue até o diretório do projeto**:
-
-   ```bash
-   cd haverim-template
-   ```
-
-3. **Abra o arquivo `index.html` no seu navegador ou em um servidor local**:
-
-   Você pode simplesmente abrir o arquivo `index.html` em seu navegador para visualizar o site ou configurar um servidor local para testes.
+<a href=“https://haverim-template.vercel.app“></a>
 
 ## Estrutura de Arquivos
 
