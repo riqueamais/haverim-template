@@ -2,16 +2,9 @@
 
 Este é um projeto de template para o site da Haverim, desenvolvido utilizando HTML, CSS, Bootstrap e Slick.js. O objetivo deste template é fornecer uma estrutura básica e responsiva para o site da Haverim, que pode ser facilmente personalizada e estendida de acordo com as necessidades do cliente.
 
-## Pré-requisitos
-
-Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em seu ambiente de desenvolvimento:
-
-- **Navegador Web**: Recomendamos o uso de navegadores modernos como Chrome, Firefox ou Safari para visualizar e testar o site.
-- **Editor de Código**: Um editor de código como Visual Studio Code, Sublime Text ou Atom para editar os arquivos HTML, CSS e JavaScript.
-
 ## Link para acesso
 
-<a href=“https://haverim-template.vercel.app“></a>
+[Haverim-Template](https://haverim-template.vercel.app)
 
 ## Estrutura de Arquivos
 
